@@ -34,7 +34,7 @@
     "hmpo-template-mixins": "^4.0.1",
     "hof-controllers": "^0.4.0",
     "hof-middleware": "0.1.1",
-    "i18n-future": "^0.2.0"
+    "i18n-future": "^1.0.0"
   },
   "devDependencies": {
     "eslint": "^0.23.0",
