@@ -27,12 +27,12 @@
   },
   "homepage": "https://github.com/UKHomeOffice/hof",
   "dependencies": {
-    "hmpo-form-wizard": "^4.3.0",
-    "hmpo-frontend-toolkit": "^4.2.0",
+    "hmpo-form-wizard": "https://github.com/UKHomeOffice/passports-form-wizard.git#so-master",
+    "hmpo-frontend-toolkit": "https://github.com/UKHomeOffice/passports-frontend-toolkit.git#so-master",
     "hmpo-govuk-template": "0.0.3",
     "hmpo-model": "^0.6.0",
-    "hmpo-template-mixins": "^4.2.0",
-    "hof-controllers": "^1.0.1",
+    "hmpo-template-mixins": "https://github.com/UKHomeOffice/passports-template-mixins.git#so-master",
+    "hof-controllers": "https://github.com/UKHomeOffice/hof-controllers.git#so-master",
     "hof-middleware": "0.1.1",
     "i18n-future": "^0.2.0"
   },
