@@ -34,13 +34,10 @@
     "hmpo-template-mixins": "https://github.com/UKHomeOffice/passports-template-mixins.git#so-master",
     "hof-controllers": "https://github.com/UKHomeOffice/hof-controllers.git#so-master",
     "hof-middleware": "https://github.com/UKHomeOffice/hof-middleware.git#so-master",
+    "eslint-config-homeoffice": "https://github.com/UKHomeOffice/eslint-config-homeoffice.git#so-master",
     "i18n-future": "^0.2.0"
   },
   "devDependencies": {
-    "eslint": "^0.23.0",
-    "eslint-plugin-filenames": "^0.1.1",
-    "eslint-plugin-mocha": "^0.2.2",
-    "eslint-plugin-one-variable-per-var": "0.0.3",
     "jscs": "^1.13.1",
     "pre-commit": "^1.0.10"
   },
