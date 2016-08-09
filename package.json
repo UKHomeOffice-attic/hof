@@ -33,7 +33,7 @@
     "hmpo-model": "^0.6.0",
     "hmpo-template-mixins": "^4.2.0",
     "hof-controllers": "^1.0.1",
-    "hof-middleware": "0.1.1",
+    "hof-middleware": "0.3.0",
     "i18n-future": "^0.2.0"
   },
   "devDependencies": {
