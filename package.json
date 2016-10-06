@@ -31,7 +31,7 @@
     "hmpo-frontend-toolkit": "4.0.0-rev1",
     "hmpo-govuk-template": "0.0.3",
     "hmpo-model": "0.7.0",
-    "hmpo-template-mixins": "4.4.0-rev2",
+    "hmpo-template-mixins": "4.6.0",
     "hof-controllers": "3.0.1",
     "hof-middleware": "0.4.0",
     "eslint-config-homeoffice": "2.0.0",
