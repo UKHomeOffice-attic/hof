@@ -32,7 +32,7 @@
     "hmpo-govuk-template": "0.0.3",
     "hmpo-model": "0.7.0",
     "hmpo-template-mixins": "4.4.0-rev2",
-    "hof-controllers": "3.0.1",
+    "hof-controllers": "3.1.0",
     "hof-middleware": "0.4.0",
     "eslint-config-homeoffice": "2.0.0",
     "i18n-future": "0.2.0"
