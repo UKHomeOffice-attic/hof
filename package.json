@@ -28,7 +28,7 @@
   "homepage": "https://github.com/UKHomeOffice/hof",
   "dependencies": {
     "hmpo-form-wizard": "5.1.1",
-    "hmpo-frontend-toolkit": "4.0.0-rev1",
+    "hmpo-frontend-toolkit": "7.0.0",
     "hmpo-govuk-template": "0.0.3",
     "hmpo-model": "0.7.0",
     "hmpo-template-mixins": "4.4.0-rev2",
